@@ -5,7 +5,7 @@
 // @description  ……
 // @author       You
 // @match        *://space.bilibili.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// @icon         https://i2.hdslb.com/bfs/face/31fcde0408761f690f17adfb32c3f9d8598d9d9f.jpg@240w_240h_1c_1s.webp
 // @grant        none
 // ==/UserScript==
 var o=`<div id="app" class="fans"><div class="h"><div class="wrapper"><div class="h-forbid" style="display: none;"><div class="f-wrap"><i class="f-icon"></i><span class="f-txt">该账号封禁中</span></div></div><!----><div class="h-inner" style="background-image: url(&quot;//i0.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png@2560w_400h_100q_1o.webp&quot;);"><div class="h-gradient"></div><div class="h-user"><div class="h-info clearfix"><div class="avatar-container"><div>
