@@ -95,7 +95,7 @@ var sabc=0;
 function bind(){
     sabc=1;
     console.log("sdasdasdsa");
-    var li = document.getElementsByClassName("be-dropdown")[0].children[1];
+    var li = document.getElementsByClassName("be-dropdown")[document.getElementsByClassName("be-dropdown").length-1].children[1];
     li.appendChild(document.createElement("li"));
     li.children[3].outerHTML=li.children[2].outerHTML;
     li.children[3].innerText="小K_KL";
