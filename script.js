@@ -2,7 +2,7 @@
 // @name         小K_KL 时光机
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  ……
+// @description  如果再也见不到你，祝你早安、午安、晚安……
 // @author       You
 // @match        *://space.bilibili.com/*
 // @icon         https://i2.hdslb.com/bfs/face/31fcde0408761f690f17adfb32c3f9d8598d9d9f.jpg@240w_240h_1c_1s.webp
