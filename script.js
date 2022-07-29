@@ -3,10 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  如果再也见不到你，祝你早安、午安、晚安……
-// @author       You
+// @author       Ce-daros
 // @match        *://space.bilibili.com/*
 // @icon         https://i2.hdslb.com/bfs/face/31fcde0408761f690f17adfb32c3f9d8598d9d9f.jpg@240w_240h_1c_1s.webp
 // @grant        none
+// @license MIT
 // ==/UserScript==
 var o=`<div id="app" class="fans"><div class="h"><div class="wrapper"><div class="h-forbid" style="display: none;"><div class="f-wrap"><i class="f-icon"></i><span class="f-txt">该账号封禁中</span></div></div><!----><div class="h-inner" style="background-image: url(&quot;//i0.hdslb.com/bfs/space/cb1c3ef50e22b6096fde67febe863494caefebad.png@2560w_400h_100q_1o.webp&quot;);"><div class="h-gradient"></div><div class="h-user"><div class="h-info clearfix"><div class="avatar-container"><div>
 <div class="bili-avatar" style="width: 60px;height:60px;">
